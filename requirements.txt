@@ -1,0 +1,8 @@
+PyQt5==5.15.4
+requests==2.25.1
+tensorflow==2.4.1
+tensorflow-hub==0.11.0
+numpy==1.19.5
+Pillow==8.1.0
+opencv-python==4.5.1.48
+matplotlib==3.3.4
